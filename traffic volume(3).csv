@@ -1,0 +1,4 @@
+holiday,temp,rain,snow,weather,day,month,year,hours,minutes,seconds,traffic_volume
+None,280.32,0.0,0.0,Clear,1,1,2016,8,0,0,400
+Christmas Day,285.15,0.2,0.0,Clouds,2,2,2017,9,15,0,500
+Thanksgiving Day,290.12,0.0,0.1,Rain,3,3,2018,10,30,0,600
