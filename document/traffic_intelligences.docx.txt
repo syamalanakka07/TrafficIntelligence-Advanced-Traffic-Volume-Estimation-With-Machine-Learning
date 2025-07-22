@@ -83,4 +83,5 @@ TrafficTelligence demonstrates how machine learning can enhance urban mobility b
 11. APPENDIX
 - Source Code: Included in app.py, HTML templates, and notebook
 - Dataset Link: traffic_volume.csv (https://drive.google.com/file/d/1iV5PfYAmI6YP0_0S4KYy1ZahHOqMgDbM/view)
-- GitHub:https://github.com/syamalanakka07/TrafficIntelligence-Advanced-Traffic-Volume-Estimation-With-Machine-Learning
+- GitHub: https://github.com/syamalanakka07/TrafficIntelligence-Advanced-Traffic-Volume-Estimation-With-Machine-Learning.git
+- Demo video link : https://drive.google.com/file/d/1jtsDXGOVKjqRhjv7iOTYf5YwaDIsIiU_/view?usp=sharing
